@@ -1,0 +1,81 @@
+body{
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather',serif;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento',cursive;
+  font-size: 90px;
+}
+h2{
+  font-family: 'Montserrat',sans-serif;
+}
+h3 {
+  font-family: 'Montserrat',sans-serif;
+}
+.TopContainer {
+  background-color: #ffd5cd;;
+}
+/*.MiddleContainer{
+
+}
+
+.BottomContainer {
+
+}
+*/
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.Pro{
+text-decoration: underline;
+}
+
+.skills{
+  border-radius: 30%;
+}
+
+.Me{
+  border-radius: 30%;
+  width:200px;
+  height: 200px;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+.top-cloud{
+  position: relative;
+  left:200px;
+}
+
+.Cooking{
+  width:170px;
+  height:170px;
+  float: right;
+  margin-left: 30px;
+
+}
+.computer{
+
+  width: 200px;
+  height: 200px;
+  float:left;
+  margin-right: 30px;
+
+}
+
+.Programming{
+  width: 200px;
+  height: 200px;
+  float:left;
+  margin-right: 30px;
+}
